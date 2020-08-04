@@ -11,4 +11,4 @@ I created a basic HTML web page that on loading, populates the table with all UF
 I created a Javascript that listens for events when a search criteria is selected and appends the data that matches to the table dynamically. 
 The website created looks like this -
 
-![ufo-web.png](ufo level 2/static/images/ufo-web.png)
+![ufo-web.png](static/images/ufo-web.png)
