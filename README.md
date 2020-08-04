@@ -12,3 +12,7 @@ I created a Javascript that listens for events when a search criteria is selecte
 The website created looks like this -
 
 ![ufo-web.png](static/images/ufo-web.png)
+
+# Deployment -
+
+I deployed the website using Heroku and FLASK. The deployed app is - https://pg-ufo.herokuapp.com/
